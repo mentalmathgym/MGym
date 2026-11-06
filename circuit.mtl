@@ -1,0 +1,8 @@
+newmtl wire
+Kd 0.58 0.64 0.72
+newmtl resistor
+Kd 0.63 0.38 0.03
+newmtl battery
+Kd 0.13 0.77 0.37
+newmtl electrons
+Kd 0.23 0.51 0.96
